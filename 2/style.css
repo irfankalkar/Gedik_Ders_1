@@ -1,0 +1,43 @@
+table
+{
+    background-color:brown;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+input
+{
+    width:500px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+textarea
+{
+    width:500px;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+input:focus
+{
+    background-color: burlywood;
+}
+
+textarea:focus
+{
+    background-color: burlywood;
+}
+
+#buton
+{
+    width: 506px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+#buton:hover
+{
+    background-color: coral;
+}
