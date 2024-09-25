@@ -1,0 +1,50 @@
+#tablo
+{
+    width: 100%;
+    height: 950px;
+    text-align: center;
+    font-size:x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header
+{
+    background-color: rgb(194, 189, 189);
+    height: 200px;
+}
+
+#nav
+{
+    background-color: grey;
+    color: rgb(228, 222, 222);
+    height: 60px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+}
+
+#section
+{
+    background-color: darkslategray;
+    color: rgb(228, 222, 222);
+    border-top-left-radius: 45px;
+}
+
+#article
+{
+    background-color: darkslateblue;
+    color: rgb(228, 222, 222);
+    width: 50%
+}
+
+#aside
+{
+    background-color: burlywood;
+    border-top-right-radius: 45px;
+}
+
+#footer
+{
+    background-color: darkred;
+    color: rgb(194, 189, 189);
+    height: 100px;
+}
